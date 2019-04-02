@@ -11,3 +11,5 @@ Variable(s) which we see are defined outside function (or functions) are simply 
 
 ## What is Local Scope?
 And off course, variable(s) which we define inside a function are called, 'Local Scope'.
+
+### A simple straightforward explanation of Global vs Local Scope, click here (https://github.com/JeffShah/AprilBootcamp/blob/master/W1D3/globalvslocal.js)
