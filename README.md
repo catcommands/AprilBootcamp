@@ -14,7 +14,8 @@
 ## 
 * Primitive Data Types
 * Global vs Local Scope
-* 
+* Object literal in Javascript
+* Modules in Javascript
 
 
 
@@ -39,5 +40,12 @@ Variable(s) which we see are defined outside function (or functions) are simply 
 ## What is Local Scope?
 And off course, variable(s) which we define inside a function are called, 'Local Scope'.
 
-### A simple straightforward explanation of Global vs Local Scope, click here (https://github.com/JeffShah/AprilBootcamp/blob/master/W1D3/globalvslocal.js)
+### A simple straightforward explanation of Global vs Local Scope, [click here](https://github.com/JeffShah/AprilBootcamp/blob/master/W1D3/globalvslocal.js)
+
+## Object literal in Javascript
+
+JavaScript Object Literal. A JavaScript object literal is a comma-separated list of name-value pairs wrapped in curly braces. Object literals encapsulate data, enclosing it in a tidy package. This minimizes the use of global variables which can cause problems when combining code.
+
+## Modules in Javascript
+In JavaScript, the word "modules" refers to small units of independent, reusable code. They are the foundation of many JavaScript design patterns and are critically necessary when building any non-trivial JavaScript-based application.
 
