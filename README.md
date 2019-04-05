@@ -3,12 +3,12 @@
 ## JavaScirpt explained in most easiest way by [Jaffar](https://github.com/JeffShah)
 
 ## What is Coding Bootcamp?
-### Off course, not this
+### Off course, not this:
 ![](Bootcamp.png)
 
-### But this is;
+## But looks something like this!
 ![](Contest_area_Def_Con_24.agr.jpg)
-#[Picture source](https://en.wikipedia.org/wiki/DEF_CON#/media/File:Contest_area_Def_Con_24.agr.jpg)
+[Picture source](https://en.wikipedia.org/wiki/DEF_CON#/media/File:Contest_area_Def_Con_24.agr.jpg)
 
 
 ## 
