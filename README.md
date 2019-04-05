@@ -11,11 +11,14 @@
 [Picture source](https://en.wikipedia.org/wiki/DEF_CON#/media/File:Contest_area_Def_Con_24.agr.jpg)
 
 
-## 
+## Topics
 * Primitive Data Types
 * Global vs Local Scope
 * Object literal in Javascript
 * Modules in Javascript
+* JavaScript Style Guide
+* Clean Coding
+* 
 
 
 
@@ -48,4 +51,14 @@ JavaScript Object Literal. A JavaScript object literal is a comma-separated list
 
 ## Modules in Javascript
 In JavaScript, the word "modules" refers to small units of independent, reusable code. They are the foundation of many JavaScript design patterns and are critically necessary when building any non-trivial JavaScript-based application.
+
+
+
+## JavaScript Style Guide
+Read up to section 7 in the following JavaScript Style Guide. Make sure to bookmark this style guide and return to it whenever new concepts are introduced, or you are about to start on a new project.
+[AirBnB - JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+## Clean Coding
+[Click here for 15 best practices](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
+
 
