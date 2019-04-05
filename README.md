@@ -2,9 +2,13 @@
 ## My personal notes which I will be making during the bootcamp at LHL.
 ## JavaScirpt explained in most easiest way by [Jaffar](https://github.com/JeffShah)
 
-## What is Bootcamp?
+## What is Coding Bootcamp?
 ![](Bootcamp.png)
 
+# This is acutally a coding bootcamp
+
+
+## 
 * Primitive Data Types
 * Global vs Local Scope
 * 
