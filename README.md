@@ -2,6 +2,7 @@
 ## My personal notes which I will be making during the bootcamp at LHL.
 ## JavaScirpt explained in most easiest way by [Jaffar](https://github.com/JeffShah)
 
+
 ## What is Coding Bootcamp?
 ### Off course, not this:
 ![](Bootcamp.png)
@@ -18,7 +19,10 @@
 * Modules in Javascript
 * JavaScript Style Guide
 * Clean Coding
-* 
+* Modules
+*  
+
+* Weekend 1
 
 
 
@@ -62,3 +66,7 @@ Read up to section 7 in the following JavaScript Style Guide. Make sure to bookm
 [Click here for 15 best practices](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
 
 
+
+
+## Weekend 1
+Back-end stuff. HTML, JSON, CMD, NodeJS, Client and Streams, DNS, API
