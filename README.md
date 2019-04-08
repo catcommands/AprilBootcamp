@@ -8,7 +8,7 @@
 ![](Bootcamp.png)
 
 ## But looks something like this!
-![](Contest_area_Def_Con_24.agr.jpg)
+![](Contest_area_Def_Con_24.agr.jpg | width=100)
 [Picture source](https://en.wikipedia.org/wiki/DEF_CON#/media/File:Contest_area_Def_Con_24.agr.jpg)
 
 
