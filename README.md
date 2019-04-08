@@ -5,10 +5,10 @@
 
 ## What is Coding Bootcamp?
 ### Off course, not this:
-![](Bootcamp.png)
+![](Bootcamp.png =150x100)
 
 ## But looks something like this!
-![](Contest_area_Def_Con_24.agr.jpg | width=100)
+![](Contest_area_Def_Con_24.agr.jpg =150x100)
 [Picture source](https://en.wikipedia.org/wiki/DEF_CON#/media/File:Contest_area_Def_Con_24.agr.jpg)
 
 
