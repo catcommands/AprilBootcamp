@@ -8,8 +8,8 @@ console.log('I did it!');
 
 //Step 3: Make a simple request
 var options = {
-    host: 'www.example.org',
-    path: '/'
+    host: 'stream-large-file.herokuapp.com',
+    path: '/give-me-stuff-now'
   };
 // From here, step 4,5,6 (see below untill here).
 // Step 4: read the step 4 and "where's my response?" 
@@ -45,4 +45,4 @@ I've made the request!
 In response handler callback!
 */
 
-
+// Step 7: Switch to diff site!
