@@ -11,19 +11,26 @@ var options = {
     host: 'www.example.org',
     path: '/'
   };
-
+// From here, step 4,5,6 (see below untill here).
 // Step 4: read the step 4 and "where's my response?" 
 //and view souce code at https://example.org
 
 //Step 5: This response. Modified the car callback function and included response.
 //for step 5, node the file in terminal.
 
+//Step 6: Read the data,
+// Modified the callback function again
+
 // called by https when the request is made.
 var callback = function(response) {
     console.log('In response handler callback!');
-    console.log('Response: ', response);
-  }
   
+    response.on('data', function(chunk) {
+      console.log('[-- CHUNK OF LENGTH ' + chunk.length + ' --]');
+      console.log(chunk.toString());
+    });
+  }
+// Until here, step 4,5,6
   console.log("I'm about to make the request!");
   
   https.request(options, callback).end();
