@@ -5,10 +5,10 @@
 
 ## What is Coding Bootcamp?
 ### Off course, not this:
-![Bootcamp](Bootcamp.png =150x100)
+![Bootcamp](Bootcamp.png)
 
 ## But looks something like this!
-![Codingcamp](Contest_area_Def_Con_24.agr.jpg =150x100)
+![Codingcamp](Contest_area_Def_Con_24.agr.jpg)
 [Picture source](https://en.wikipedia.org/wiki/DEF_CON#/media/File:Contest_area_Def_Con_24.agr.jpg)
 
 
@@ -20,7 +20,7 @@
 * JavaScript Style Guide
 * Clean Coding
 * Modules
-*  
+*
 
 * Weekend 1
 
