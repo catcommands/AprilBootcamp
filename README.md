@@ -1,9 +1,16 @@
-#April Bootcamp
+##April Bootcamp
 ## My personal notes which I will be making during the bootcamp at LHL.
+## My Projects:
+- TinyApp
+- [Tweeter](https://github.com/JeffShah/tweeter)
+!["Tweeter gif"](https://github.com/JeffShah/tweeter/blob/master/ScreenShotsTweeter/TweeterProjectGif.gif)
+
+
+
 ## JavaScirpt explained in most easiest way by [Jaffar](https://github.com/JeffShah)
 
 
-## What is Coding Bootcamp?
+### What is Coding Bootcamp?
 ### Off course, not this:
 ![Bootcamp](Bootcamp.png)
 
