@@ -9,7 +9,10 @@ require './filters'
 
 #binding.pry
 
-pp @candidates
+#pp @candidates
+
+#pp find(20)
+pp qualified_candidates(@candidates)
 
 =begin
 1) List out the ruby files that are loaded (required) when we run ruby main.rb
