@@ -1,4 +1,6 @@
-##April Bootcamp
+### Stay tuned, this profile will rise and shine.
+
+## April Bootcamp:
 ## My personal notes which I will be making during the bootcamp at LHL.
 ## My Projects:
 - [ChattyApp](https://github.com/JeffShah/chattyapp)
