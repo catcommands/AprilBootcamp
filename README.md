@@ -1,9 +1,11 @@
 ##April Bootcamp
 ## My personal notes which I will be making during the bootcamp at LHL.
 ## My Projects:
-- TinyApp
+- [ChattyApp](https://github.com/JeffShah/chattyapp)
+- [Github Avatar Downloader](https://github.com/JeffShah/github-avatar-downloader)
+- [TinyApp](https://github.com/JeffShah/TinyApp)
 - [Tweeter](https://github.com/JeffShah/tweeter)
-!["Tweeter gif"](https://github.com/JeffShah/tweeter/blob/master/ScreenShotsTweeter/TweeterProjectGif.gif)
+!["Tweeter gif"](https://github.com/JeffShah/AprilBootcamp/blob/master/ScreenShotsTweeter/TweeterProjectGif.gif)
 
 
 
