@@ -11,7 +11,7 @@
 
 
 
-## JavaScirpt explained in most easiest way by [Jaffar](https://github.com/JeffShah)
+## JavaScirpt explained in most easiest way by [Syed](https://github.com/JeffShah)
 
 
 ### What is Coding Bootcamp?
