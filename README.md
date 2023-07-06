@@ -1,7 +1,7 @@
 ### Stay tuned, this profile will rise and shine.
 
-## April Bootcamp:
-## My personal notes which I will be making during the bootcamp at LHL.
+## Lighthouse Labs Web Development Bootcamp:
+## My personal notes which I will be making during the bootcamp at LHL (Lighthouse Labs).
 ## My Projects:
 - [ChattyApp](https://github.com/JeffShah/chattyapp)
 - [Github Avatar Downloader](https://github.com/JeffShah/github-avatar-downloader)
