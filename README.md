@@ -2,11 +2,15 @@
 
 ## Lighthouse Labs Web Development Bootcamp:
 ## My personal notes which I will be making during the bootcamp at LHL (Lighthouse Labs).
-## My Projects:
-- [ChattyApp](https://github.com/JeffShah/chattyapp)
-- [Github Avatar Downloader](https://github.com/JeffShah/github-avatar-downloader)
-- [TinyApp](https://github.com/JeffShah/TinyApp)
-- [Tweeter](https://github.com/JeffShah/tweeter)
+## My Projects: Click on each to learn more about them.
+
+1 - [ChattyApp](https://github.com/JeffShah/chattyapp)
+
+2 - [Github Avatar Downloader](https://github.com/JeffShah/github-avatar-downloader)
+
+3 - [TinyApp](https://github.com/JeffShah/TinyApp)
+
+4 - [Tweeter](https://github.com/JeffShah/tweeter)
 !["Tweeter gif"](https://github.com/JeffShah/AprilBootcamp/blob/master/ScreenShotsTweeter/TweeterProjectGif.gif)
 
 
