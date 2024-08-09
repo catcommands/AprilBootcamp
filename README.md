@@ -6,16 +6,16 @@
 
 1 - [ChattyApp](https://github.com/JeffShah/chattyapp)
 
-2 - [Github Avatar Downloader](https://github.com/JeffShah/github-avatar-downloader)
+2 - [Github Avatar Downloader](https://github.com/catcommands/github-avatar-downloader)
 
-3 - [TinyApp](https://github.com/JeffShah/TinyApp)
+3 - [TinyApp](https://github.com/catcommands/TinyApp)
 
-4 - [Tweeter](https://github.com/JeffShah/tweeter)
-!["Tweeter gif"](https://github.com/JeffShah/AprilBootcamp/blob/master/ScreenShotsTweeter/TweeterProjectGif.gif)
+4 - [Tweeter](https://github.com/catcommands/tweeter)
+!["Tweeter gif"](https://github.com/catcommands/AprilBootcamp/blob/master/ScreenShotsTweeter/TweeterProjectGif.gif)
 
 
 
-## JavaScirpt explained in most easiest way by [Syed](https://github.com/JeffShah)
+## JavaScirpt explained in most easiest way by [CatCommands](https://github.com/catcommands)
 
 
 ### What is Coding Bootcamp?
@@ -62,7 +62,7 @@ Variable(s) which we see are defined outside function (or functions) are simply 
 ## What is Local Scope?
 And off course, variable(s) which we define inside a function are called, 'Local Scope'.
 
-### A simple straightforward explanation of Global vs Local Scope, [click here](https://github.com/JeffShah/AprilBootcamp/blob/master/W1D3/globalvslocal.js)
+### A simple straightforward explanation of Global vs Local Scope, [click here](https://github.com/catcommands/AprilBootcamp/blob/master/W1D3/globalvslocal.js)
 
 ## Object literal in Javascript
 
