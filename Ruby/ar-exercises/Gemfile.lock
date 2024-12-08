@@ -32,7 +32,7 @@ GEM
     slop (3.4.7)
     thread_safe (0.2.0)
       atomic (>= 1.1.7, < 2)
-    tzinfo (0.3.39)
+    tzinfo (0.3.61)
 
 PLATFORMS
   ruby
